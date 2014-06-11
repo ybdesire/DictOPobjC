@@ -1,0 +1,16 @@
+/* 
+  Localiable.strings
+  parseFilebyDict
+
+  Created by Bin Yin on 14-6-11.
+  Copyright (c) 2014年 Bin Yin. All rights reserved.
+*/
+"str1"="i am a string 1";
+
+"str2"="i am a string 2";
+
+"str3"="i am a string 3";
+
+"str4"="i am a string 4";
+
+"str5"="i am a string 5";
